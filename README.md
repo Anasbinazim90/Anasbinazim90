@@ -6,13 +6,13 @@
 - 🔭 I’m currently working on Web Application Projects by using FLUTTER  
   
 
-- 🌱 I’m currently learning Dart, Python, its libraries & Frameworks  
+- 🌱 I’m currently learning Dart, Flutter, Python, its libraries & Frameworks  
   
 
 - ❓ Ask me about anything related to Software Development  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use tabs over spaces
   
 
 <br/>  
