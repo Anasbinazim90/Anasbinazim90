@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since birth<br>📚 I'm currently learning Dart, Flutter & State Management Tools.<br>🎲 Fun fact: I use tabs instead of spaces.</p>
+<p align="left">📚 I'm currently working on Mobile / Web Applications.<br>✨ I'm currently learning Dart and its Framework, Flutter and State Management Librariers.<br>🎲 Fun fact: I use tabs instead of spaces.</p>
 
 ###
 
