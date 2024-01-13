@@ -4,13 +4,14 @@
 
 ###
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Greetings! 👋, I'm Anas Bin Azim</h1>
 
 ###
 
-<p align="left">My name is Anas Bin Azim and I'm a Flutter Developer. </p>
+<h3 align="center">Computer Science student at NEDUET | Software Developer | Blockchain Anthusiast</h3>
 
 ###
+
 
 <h2 align="left">About me </h2>
 
