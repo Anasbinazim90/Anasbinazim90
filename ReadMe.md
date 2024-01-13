@@ -35,11 +35,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="52" alt="googlecloud logo"  />
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anasbinazim90&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Anasbinazim90&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anasbinazim90&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+###
 
+<h3 align="left">📊 My Stats:</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anasbinazim90&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Anasbinazim90&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anasbinazim90&radius=16&theme=minimal&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
